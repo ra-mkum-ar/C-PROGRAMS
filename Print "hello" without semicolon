@@ -1,0 +1,30 @@
+C Program to print "hello" without semicolon
+
+Program 1: Using if statement
+
+#include<stdio.h>  
+int main()    
+{    
+  if(printf("hello world")){}    
+  return 0;  
+}   
+
+
+Program 2: Using switch statement
+
+#include<stdio.h>  
+int main()    
+{    
+switch(printf("hello world")){}    
+return 0;  
+}
+
+
+Program 3: Using while loop
+
+#include<stdio.h>  
+int main()    
+{    
+  while(!printf("hello world")){}    
+  return 0;  
+} 
